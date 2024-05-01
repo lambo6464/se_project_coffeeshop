@@ -15,7 +15,6 @@
   height: 100vh;
   display: flex;
   flex-direction: column;
-  padding: 100px 80px 215px;
   margin: 0;
   background-image: url("../images/background_header.svg");
   background-repeat: no-repeat;
@@ -68,7 +67,6 @@
 }
 
 .header__title {
-  display: flex;
   max-width: 729px;
   font-size: 60px;
   line-height: 70px;
@@ -86,7 +84,6 @@
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
-  line-height: 30px;
 }
 
 .header__span-accent {
@@ -151,4 +148,6 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  max-width: 438px;
+  margin-bottom: 80px;
 }
