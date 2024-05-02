@@ -151,3 +151,7 @@
   max-width: 438px;
   margin-bottom: 80px;
 }
+
+.recipes_iframe {
+  border: none;
+}
