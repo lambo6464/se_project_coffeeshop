@@ -199,7 +199,7 @@
   display: block;
 }
 
-.form__label_type_checkbox {
+.form__checkbox_type_checkbox {
   display: flex;
   justify-content: center;
 }
