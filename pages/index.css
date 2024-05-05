@@ -161,6 +161,9 @@
 .reservation__title {
   margin: 0 0 80px;
   text-align: center;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .reservation .recipes__frame {
