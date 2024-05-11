@@ -16,6 +16,9 @@
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
+  font-size: normal;
+  line-height: 30px;
+  font-weight: 500;
 }
 
 .recipes__title {
@@ -24,6 +27,7 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  margin: 0;
 }
 
 .recipes__subtitle {
@@ -33,5 +37,5 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 438px;
-  margin-bottom: 80px;
+  margin: 24px 0 0 80px;
 }
