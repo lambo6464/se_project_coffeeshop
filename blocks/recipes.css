@@ -9,8 +9,15 @@
 
 .recipes__videos {
   display: flex;
+  flex-wrap: wrap;
   gap: 40px;
   justify-content: center;
+  list-style-type: none;
+}
+
+.recipes__iframe {
+  height: 486px;
+  width: 273px;
 }
 
 .recipes__video-caption {
@@ -37,5 +44,5 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 438px;
-  margin: 24px 0 0 80px;
+  margin: 24px 0px 80px;
 }
