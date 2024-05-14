@@ -16,8 +16,8 @@
 }
 
 .recipes__iframe {
-  height: 486px;
-  width: 273px;
+  height: 273px;
+  width: 486px;
 }
 
 .recipes__video-caption {
@@ -26,6 +26,11 @@
   font-size: normal;
   line-height: 30px;
   font-weight: 500;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .recipes__title {
