@@ -1,6 +1,7 @@
 .menu {
   padding: 100px 0 100px;
   background-position: center;
+  background-image: url(../images/background_menu.svg);
 }
 
 .menu__title {

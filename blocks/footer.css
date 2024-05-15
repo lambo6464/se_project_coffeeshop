@@ -18,7 +18,6 @@
 .footer__social {
   display: flex;
   flex-direction: column;
-  margin-bottom: 20px;
   margin-top: 0px;
   color: #fff;
 }
@@ -29,6 +28,11 @@
   color: #fff;
   display: flex;
   justify-content: flex-end;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
 }
 
 .footer__list {
@@ -48,6 +52,10 @@
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
+}
+
+.footer_list-item :last-of-type {
+  margin: 0 0 16px;
 }
 
 .footer__social-icon {
