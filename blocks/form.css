@@ -43,6 +43,7 @@
   border-width: 1px;
   border: solid;
   border-color: #838383;
+  border-radius: 2px;
 }
 
 .form__button {
@@ -75,12 +76,6 @@
 }
 
 .form__checkbox {
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
-  text-align: center;
   height: 20px;
   width: 20px;
 }
