@@ -54,7 +54,7 @@
   line-height: 20px;
 }
 
-.footer__list-item :last-of-type {
+.footer__list-item:last-of-type {
   margin: 0;
 }
 
@@ -80,7 +80,7 @@
 
 .footer__copyright {
   margin: 108px 0 0px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
